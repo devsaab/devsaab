@@ -1,0 +1,11 @@
+commit 742bb7a8317595bb0c41f3317d6b5322d04d86f5
+Author: Carlos <carlossaab.dardo@gmail.com>
+Date:   Wed Jan 4 19:21:35 2017 -0400
+
+    se agrego la primera info del curso
+
+commit c45f5f575f811912a261659529ff22e4c35cf59a
+Author: Carlos <carlossaab.dardo@gmail.com>
+Date:   Wed Jan 4 18:25:30 2017 -0400
+
+    primer release
