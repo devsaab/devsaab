@@ -4,3 +4,19 @@ body{
 	margin: 25px;
 }
 
+h1{
+
+}
+
+.btn-1{
+color: blue;
+background-color: #red;
+padding: 2px 0;
+display: inline-block;
+margin: 10px;
+border: 1px solid blue;
+}
+
+.btn-2{
+
+}
